@@ -1,6 +1,5 @@
 # Sudoku Game
-Sudoku Game is a C++ based program that lets you play Sudoku Game based on the console input,
-and selectively outputs both console and *.txt outputs.
+Sudoku Game is a C++ based program that lets you play Sudoku Game based on the console input.
 Compiled using command prompt from:
 Microsoft (R) Program Maintenance Utility Version 14.28.29336.0
 
